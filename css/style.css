@@ -10,7 +10,7 @@ header, main{
     font-weight: 900;
 }
 a{
-    background-color: rgb(229, 201, 230);
+    
     font-weight: 500;
     font-size: 1.5em;
 }
@@ -39,9 +39,4 @@ p{
 }
 .last-logo img{
     height: 90px;
-}
-@media (max-width:720px){
-    .love-col{
-        display: block;
-    }
 }
