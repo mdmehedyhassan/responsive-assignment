@@ -1,0 +1,42 @@
+header, main{
+    font-family: 'Roboto', sans-serif;
+}
+.header-1-full-color{
+    color: #FABE4C;
+    font-weight: 900;
+}
+.header-2-full-color, h2, h3{
+    color:#363958;
+    font-weight: 900;
+}
+a{
+    background-color: rgb(229, 201, 230);
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+p{
+   color: #3E3E3E;
+
+}
+.logo-image img{
+    height: 40px;
+}
+.cover-image img{
+    height: 530px ;
+}
+.cover-image-last img{
+    height: 380px;
+}
+.shop-icon{
+    margin: 10px ;
+}
+.shop-icons{
+    padding:0 3px 0 10px ;
+}
+.span-icons{
+    padding: 0 10px 0 0;
+}
+.last-logo img{
+    height: 90px;
+}
