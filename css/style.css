@@ -40,3 +40,8 @@ p{
 .last-logo img{
     height: 90px;
 }
+@media (max-width:720px){
+    .love-col{
+        display: block;
+    }
+}
